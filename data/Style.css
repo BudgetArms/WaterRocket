@@ -1,0 +1,27 @@
+body {
+  /* min-width: 310px; */
+  /* max-width: 800px; */
+  height: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+* {
+  font-family: Arial;
+}
+h1 {
+  font-size: 2.9rem;
+}
+h2 {
+  font-size: 2.0rem;
+}
+h3 {
+  font-size: 1.9rem;
+}
+.container {
+  /* margin-right: 200px!important; */
+  margin-left: 150px!important;
+  text-align: center;
+  text-justify: center;
+  width: 1600px;
+  height: 600px;
+}
